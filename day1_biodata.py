@@ -1,0 +1,6 @@
+print("Nama        : RAHMAWATI")
+print("Nim         : D0222033")
+print("Kelas       : Teknik Informatika E")
+print("Alamat      : Tapango")
+print("Nomor wa    : 0831 1583 5663")
+print(" Nama Ig    : @rhma.w_02)
